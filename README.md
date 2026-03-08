@@ -1,3 +1,4 @@
+# Video Link: https://drive.google.com/file/d/1vM1VAtNFONBEh0unUnYTnotHmHlnSQIZ/view?usp=sharing
 # Ezza — AI Agricultural Advisory Assistant
 
 **Ezza** is a fine-tuned Large Language Model specialized in providing agricultural advisory support for farmers, agronomists, and agricultural stakeholders. It delivers actionable, climate-smart, and environmentally responsible recommendations on crop management, soil health, irrigation, fertilization, and pest control.
